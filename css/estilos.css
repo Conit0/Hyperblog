@@ -1,4 +1,4 @@
-Reportar un problema
+/* Reportar un problema
 Fusión de ramas con Git merge
 Introducción a las ramas o branches de Git
 
@@ -15,13 +15,13 @@ Preguntas 10
 Archivos y Enlaces3
 Archivos
 
-estilos.css
+estilos.css */
 
 body
 {
     color: #333;
     text-align: center;
-    font-family: "Arial";
+    font-family: "courier";
     font-size: 16px;
     margin: 0;
     padding: 0;
