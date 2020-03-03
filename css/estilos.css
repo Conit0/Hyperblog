@@ -26,7 +26,6 @@ body
     margin: 40px;
     padding: 0;
 }
-
 #cabecera
 {
     background: #33A;
@@ -36,14 +35,12 @@ body
     margin: 0;
     padding: 0.5em;
 }
-
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
-
 #container
 {
     width: 70%;
@@ -52,13 +49,18 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-
 #container h1
 {
     font-size: 20px;
 }
-
 #post
 {
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
