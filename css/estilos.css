@@ -19,6 +19,8 @@ estilos.css */
 
 body
 {
+    background-attachment: fixed;
+    background:  #1e1f24;
     color: blue;
     text-align: center;
     font-family: Arial;
@@ -34,7 +36,13 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0.5em 2em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -61,4 +69,5 @@ body
 #post
 {
     padding: 1em;
+    background: white;
 }
